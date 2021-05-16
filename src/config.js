@@ -1,0 +1,1 @@
+export const debate = "vai dar merda"
